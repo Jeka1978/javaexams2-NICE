@@ -14,7 +14,7 @@ import java.util.List;
  * @author Evgeny Borisov
  */
 @RestController
-@RequestMapping("/java-exam")
+@RequestMapping("/java")
 public class JavaExamController {
     @Autowired
     private JavaExamService examService;

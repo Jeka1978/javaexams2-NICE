@@ -17,6 +17,7 @@ import javax.persistence.Id;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+
 public class Exercise {
     @Id
     @GeneratedValue
